@@ -31,7 +31,6 @@ Congratulations on making it this far in your C# learning journey! But as with a
 ## Community Engagement
 
 - **Contribute to Open Source**: Platforms like [GitHub](https://github.com/) have numerous C# projects. Contributing can be a great way to learn and give back to the community.
-- **Attend Meetups**: Platforms like [Meetup.com](https://www.meetup.com/) often have C# and .NET local groups.
 - **Engage in Forums**: Continue being active in forums and communities. Teaching and helping others can solidify your understanding.
 
 ---
