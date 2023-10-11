@@ -17,18 +17,28 @@ Visual Studio is Microsoft's flagship IDE and is particularly popular for C# and
 2. Download the desired edition (Community edition is free).
 3. Run the installer.
 
+### .Net install
 ![VS Installation Step 1](../Images/VS/VS_In_1.png)
+Do the lastest one
 
+### Visual Studio install
 ![VS Installation Step 2](../Images/VS/VS_In_2.png)
+Choose the blue one
 
+
+### Extenstions
 ![VS Installation Step 3](../Images/VS/VS_In_3.png)
+.Net extention will allow you to use C#
 
 ![VS Installation Step 4](../Images/VS/VS_In_4.png)
+C# will make the code look like code
 
 ![VS Installation Step 5](../Images/VS/VS_In_5.png)
+C# Dev will allow the code to work
 
+### Working
 ![VS Installation Step 6](../Images/VS/VS_In_6.png)
-
+Load up some code and if you see a green play button like this, then it should be working
 
 
 ---
@@ -46,15 +56,15 @@ Rider is a cross-platform IDE developed by JetBrains, known for its combination 
 1. Visit the [official Rider download page](https://www.jetbrains.com/rider/download/).
 2. Download the version for your OS and run the installer.
 
-![Rider Installation Step 1](./Images/Rider/Rider_In_1.jpg)
-![Rider Installation Step 2](./Images/Rider/Rider_In_2.jpg)
-![Rider Installation Step 3](./Images/Rider/Rider_In_3.jpg)
-![Rider Installation Step 4](./Images/Rider/Rider_In_4.jpg)
-![Rider Installation Step 5](./Images/Rider/Rider_In_5.jpg)
-![Rider Installation Step 6](./Images/Rider/Rider_In_6.jpg)
-![Rider Installation Step 7](./Images/Rider/Rider_In_7.jpg)
-![Rider Installation Step 8](./Images/Rider/Rider_In_8.jpg)
-![Rider Installation Step 9](./Images/Rider/Rider_In_9.jpg)
+![Rider Installation Step 1](../Images/Rider/Rider_In_1.png)
+![Rider Installation Step 2](../Images/Rider/Rider_In_2.png)
+![Rider Installation Step 3](../Images/Rider/Rider_In_3.png)
+![Rider Installation Step 4](../Images/Rider/Rider_In_4.png)
+![Rider Installation Step 5](../Images/Rider/Rider_In_5.png)
+![Rider Installation Step 6](../Images/Rider/Rider_In_6.png)
+![Rider Installation Step 7](../Images/Rider/Rider_In_7.png)
+![Rider Installation Step 8](../Images/Rider/Rider_In_8.png)
+![Rider Installation Step 9](../Images/Rider/Rider_In_9.png)
 
 ### Activation with a Student Account
 
