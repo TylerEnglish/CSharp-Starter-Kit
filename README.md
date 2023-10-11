@@ -22,11 +22,7 @@ The .NET Framework, also launched by Microsoft, provides a runtime environment i
    - [Classes & Objects](./Intermediate/ClassesAndObjects.md)
    - [OOP Concepts](./Intermediate/OOPConcepts.md)
 
-3. **[Resources](./Resources/Books.md)**
-   - [Recommended Books](./Resources/Books.md)
-   - [Online Courses](./Resources/OnlineCourses.md)
-   - [Communities & Forums](./Resources/Communities.md)
-   - [Blogs & Websites](./Resources/BlogsWebsites.md)
+3. **[Resources](./Resources.md)**
 
 4. **[What's Next?](./WhatsNext.md)**
 
