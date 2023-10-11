@@ -17,6 +17,13 @@ string myString;
 ### Assigning Values
 After declaring a variable, you can assign a value to it using the '=' operator.
 
+```csharp
+
+myNumber = 5;
+myString = "Hello, World!";
+
+```
+
 ## C# Operators
 
 Operators in C# are symbols that execute specific operations on variables and values. C# offers a diverse range of operators, each with a unique purpose:
