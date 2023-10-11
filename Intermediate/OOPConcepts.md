@@ -145,4 +145,4 @@ public class Rectangle : Shape
 
 Mastering the concepts of OOP is crucial for any C# developer. Not only does it provide a way to structure and organize code effectively, but it also paves the way for advanced programming techniques and design patterns.
 
-[⬅️ Back to Table of Contents](../README.md)  | [➡️ Previous Lesson: Classes & Objects](./ClassesAndObjects.md)
+[⬅️ Previous Lesson: Classes & Objects](./ClassesAndObjects.md) | [➡️ Back to Table of Contents](../README.md)
