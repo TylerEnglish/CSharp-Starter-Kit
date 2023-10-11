@@ -17,12 +17,12 @@ Visual Studio is Microsoft's flagship IDE and is particularly popular for C# and
 2. Download the desired edition (Community edition is free).
 3. Run the installer.
 
-![VS Installation Step 1](./Images/VS/VS_In_1.jpg)
-![VS Installation Step 2](./Images/VS/VS_In_2.jpg)
-![VS Installation Step 3](./Images/VS/VS_In_3.jpg)
-![VS Installation Step 4](./Images/VS/VS_In_4.jpg)
-![VS Installation Step 5](./Images/VS/VS_In_5.jpg)
-![VS Installation Step 6](./Images/VS/VS_In_6.jpg)
+![VS Installation Step 1](./Images/VS/VS_In_1.png)
+![VS Installation Step 2](./Images/VS/VS_In_2.png)
+![VS Installation Step 3](./Images/VS/VS_In_3.png)
+![VS Installation Step 4](./Images/VS/VS_In_4.png)
+![VS Installation Step 5](./Images/VS/VS_In_5.png)
+![VS Installation Step 6](./Images/VS/VS_In_6.png)
 
 
 
