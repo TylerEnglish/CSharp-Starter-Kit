@@ -106,4 +106,4 @@ public int Factorial(int n)
 
 Methods play a fundamental role in structuring C# programs, making them more maintainable, organized, and efficient. As you deepen your C# knowledge, you'll discover even more ways to leverage methods for sophisticated programming patterns.
 
-[⬅️ Previous Lesson: Control Structures](./ControlStructures.md) | [⬆️ Back to Table of Contents](../README.md) | [➡️ Next Lesson: Classes & Objects](./ClassesAndObjects.md)
+[⬅️ Previous Lesson: Control Structures](./ControlStructures.md) | [⬆️ Back to Table of Contents](../README.md) | [➡️ Next Lesson: Classes & Objects](../Intermediate/ClassesAndObjects.md)
