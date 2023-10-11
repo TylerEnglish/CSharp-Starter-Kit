@@ -28,6 +28,18 @@ Visual Studio is Microsoft's official IDE, offering a comprehensive suite of too
 
 (Insert your installation screenshots here)
 
+### Extensions
+
+After installing Visual Studio, it's recommended to add the following extensions to enhance your C# development experience:
+
+1. **.NET Runtime Install Tool**: This tool helps streamline the process of obtaining .NET runtimes.
+   - To install, go to `Extensions > Manage Extensions` within Visual Studio, then search for ".NET Runtime Install Tool" and click "Download".
+
+2. **C# Dev Kit & C#**: These extensions provide a suite of tools and utilities tailored for C# development.
+   - To install, go to `Extensions > Manage Extensions`, then search for "C# Dev Kit" and "C#" respectively, and click "Download" for each.
+
+(Insert screenshots guiding the extension installation here)
+
 ### First Project
 
 1. Open Visual Studio.
@@ -35,6 +47,11 @@ Visual Studio is Microsoft's official IDE, offering a comprehensive suite of too
 3. Select "C# Console App" and follow the instructions to create your first project.
 
 (Insert your project setup screenshots here)
+
+---
+
+These extensions will significantly boost productivity, offering added features and tools tailored for C# development within Visual Studio.
+
 
 ---
 
