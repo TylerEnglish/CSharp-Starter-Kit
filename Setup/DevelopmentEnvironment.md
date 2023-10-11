@@ -1,61 +1,59 @@
-# Development Environment Setup
+# Setting Up Your C# Development Environment
 
-Setting up a proper development environment is vital for a productive coding experience. This guide will walk you through the setup processes for two of the most popular C# IDEs: Visual Studio and Rider.
+A streamlined development environment is key to an efficient and enjoyable coding experience. This guide introduces you to the installation and configuration of two leading C# Integrated Development Environments (IDEs): Visual Studio and Rider.
 
-## Visual Studio Setup
+## Visual Studio: Getting Started
 
-Visual Studio is Microsoft's flagship IDE and is particularly popular for C# and .NET development.
+Microsoft's Visual Studio stands out as the premier IDE for C# and .NET development.
 
-### Prerequisites
+### Before You Begin
+- Ensure you're running a Windows OS. Mac users can opt for [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/).
+- Install the latest version of the [.NET SDK](https://dotnet.microsoft.com/download/dotnet).
 
-- A Windows Operating System (For Mac users, there's [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/))
-- The latest version of [.NET SDK](https://dotnet.microsoft.com/download/dotnet)
+### Setting Up Visual Studio
 
-### Installation
+1. Head over to the [official Visual Studio download portal](https://visualstudio.microsoft.com/downloads/).
+2. Opt for the edition that suits you. (The Community edition is free.)
+3. Execute the installer.
 
-1. Visit the [official Visual Studio download page](https://visualstudio.microsoft.com/downloads/).
-2. Download the desired edition (Community edition is free).
-3. Run the installer.
+#### Installing .NET
+![.NET Installation](../Images/VS/VS_In_1.png)
+Ensure you choose the latest version.
 
-### .Net install
-![VS Installation Step 1](../Images/VS/VS_In_1.png)
-Do the lastest one
+#### Visual Studio Installation
+![Visual Studio Setup](../Images/VS/VS_In_2.png)
+Select the highlighted option.
 
-### Visual Studio install
-![VS Installation Step 2](../Images/VS/VS_In_2.png)
-Choose the blue one
+### Integrating Extensions
+![.NET Extension](../Images/VS/VS_In_3.png)
+The .NET extension equips Visual Studio for C# development.
 
+![C# Formatting](../Images/VS/VS_In_4.png)
+This C# extension enhances code readability.
 
-### Extenstions
-![VS Installation Step 3](../Images/VS/VS_In_3.png)
-.Net extention will allow you to use C#
+![C# Development Tools](../Images/VS/VS_In_5.png)
+The C# Dev extension provides essential tools to make your code operational.
 
-![VS Installation Step 4](../Images/VS/VS_In_4.png)
-C# will make the code look like code
-
-![VS Installation Step 5](../Images/VS/VS_In_5.png)
-C# Dev will allow the code to work
-
-### Working
-![VS Installation Step 6](../Images/VS/VS_In_6.png)
-Load up some code and if you see a green play button like this, then it should be working
-
+### Verifying Installation
+![Verification](../Images/VS/VS_In_6.png)
+Open a project. If you spot a green play button as shown, you're all set!
 
 ---
 
-## Rider Setup
+## Rider: A Comprehensive Guide
 
-Rider is a cross-platform IDE developed by JetBrains, known for its combination of ReSharper's features with the IntelliJ platform.
+JetBrains' Rider is a versatile cross-platform IDE, renowned for integrating the capabilities of ReSharper and the IntelliJ platform.
 
-### Prerequisites
+### Pre-installation Steps
 
-- Windows, macOS, or Linux OS
+- Compatible with Windows, macOS, and Linux.
 
-### Installation
+### Installing Rider
 
-1. Visit the [official Rider download page](https://www.jetbrains.com/rider/download/).
-2. Download the version for your OS and run the installer.
+1. Navigate to the [official Rider download page](https://www.jetbrains.com/rider/download/).
+2. Secure the version matching your OS and proceed with installation.
 
+#### Setup Steps
 ![Rider Installation Step 1](../Images/Rider/Rider_In_1.png)
 ![Rider Installation Step 2](../Images/Rider/Rider_In_2.png)
 ![Rider Installation Step 3](../Images/Rider/Rider_In_3.png)
@@ -63,18 +61,21 @@ Rider is a cross-platform IDE developed by JetBrains, known for its combination 
 ![Rider Installation Step 5](../Images/Rider/Rider_In_5.png)
 ![Rider Installation Step 6](../Images/Rider/Rider_In_6.png)
 ![Rider Installation Step 7](../Images/Rider/Rider_In_7.png)
+
+### Loading it 
 ![Rider Installation Step 8](../Images/Rider/Rider_In_8.png)
 ![Rider Installation Step 9](../Images/Rider/Rider_In_9.png)
+Ensure the green play button is visible.
 
-### Activation with a Student Account
+### Utilizing a Student License
 
-Rider is a paid IDE, but JetBrains provides it for free to students. If you're a student:
+While Rider is a premium IDE, JetBrains generously offers it to students at no cost:
 
-1. Register on the [JetBrains student page](https://www.jetbrains.com/student/) using your academic email address.
-2. After verification, you'll receive a license activation code.
-3. Open Rider, and when prompted for activation, use the license activation code you received.
+1. Sign up at the [JetBrains student portal](https://www.jetbrains.com/student/) using your university email.
+2. Upon verification, you'll obtain a license activation key.
+3. Boot up Rider and input the received key when prompted for activation.
 
 ---
 
-Remember to check for updates regularly for both IDEs to ensure access to the latest features and security fixes.
-
+To enjoy a seamless development experience, regularly update both IDEs, capturing the freshest features and essential security patches.
+This revised version organizes information more systematically, making the guide easier to follow and more aesthetically appealing.
