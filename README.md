@@ -29,17 +29,7 @@ The .NET Framework, also launched by Microsoft, provides a runtime environment i
    - [Communities & Forums](./Resources/Communities.md)
    - [Blogs & Websites](./Resources/BlogsWebsites.md)
 
-4. **Sample Projects**
-   - [Console Calculator](./SampleProjects/ConsoleCalculator/)
-   - [Todo List GUI App](./SampleProjects/TodoListGUI/)
-   - ... (other projects you decide to add)
-
-5. **[Best Practices](./BestPractices/CodingConventions.md)**
-   - [Coding Conventions](./BestPractices/CodingConventions.md)
-   - [Debugging Tips](./BestPractices/DebuggingTips.md)
-   - [Performance Optimization](./BestPractices/PerformanceOptimization.md)
-
-6. **[What's Next?](./WhatsNext.md)**
+4. **[What's Next?](./WhatsNext.md)**
 
 ## Contributing
 
